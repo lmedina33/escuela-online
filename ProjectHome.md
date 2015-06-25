@@ -1,0 +1,1 @@
+control escolar, administra alumnos, maestros, cursos, horario, calificaciones y algunos formatos
